@@ -1,5 +1,13 @@
 # kickstart.nvim
 
+## Linux
+```bash
+git clone https://github.com/soda92/kickstart.nvim ~/.config/nvim
+```
+## Windows
+```powershell
+git clone https://github.com/soda92/kickstart.nvim "${env:LOCALAPPDATA}\nvim"
+```
 ## Introduction
 
 A starting point for Neovim that is:
